@@ -14,8 +14,8 @@
 <a href="https://www.linkedin.com/in/BryanCSAL/" target="_blank" rel="noopener noreferrer">
   <img 
     align="right" 
-    alt="MySQL"
-    title="MySQL" 
+    alt="LinkedIn"
+    title="LinkedIn" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"
