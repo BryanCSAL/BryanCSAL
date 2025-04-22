@@ -1,10 +1,31 @@
+<div>
+
+## Bio
+
 **`Desenvolvedor de Software`**
 
 "E aí, tudo bem? Meu nome é Bryan Lopes!
 
----
 
-### ⭐ Linguagens e Tecnologias
+<br/>
+
+<img 
+    align="left" 
+    alt="MySQL"
+    title="MySQL" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"
+    href="https://www.linkedin.com/in/BryanCSAL/"
+/>
+
+<br/>
+
+</div>
+
+<div>
+
+## ⭐ Linguagens e Tecnologias
 
 <img 
     align="left" 
@@ -122,9 +143,12 @@
 <br/>
 <br/>
 
----
+</div>
 
-### 📊 Estatísticas
+<div>
+
+
+## 📊 Estatísticas
 
 <p>
   <img 
@@ -143,3 +167,5 @@
   />
 
 </p>
+
+</div>
