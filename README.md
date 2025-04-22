@@ -13,7 +13,7 @@
 
 <a href="https://www.linkedin.com/in/BryanCSAL/" target="_blank" rel="noopener noreferrer">
   <img 
-    align="left" 
+    align="right" 
     alt="MySQL"
     title="MySQL" 
     width="30px" 
