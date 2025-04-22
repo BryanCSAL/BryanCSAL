@@ -1,6 +1,6 @@
 **`Desenvolvedor de Software`**
 
-Eai, tudo bem? Meu nome é Bryan Lopes!
+"E aí, tudo bem? Meu nome é Bryan Lopes!
 
 ---
 
